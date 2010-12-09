@@ -1,0 +1,12 @@
+Package: sixarm-debian-font-packages
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: all
+Depends: gsfonts-x11, msttcorefonts, ttf-aenigma, ttf-droid, ttf-dustin, ttf-gentium, ttf-georgewilliams, ttf-inconsolata, ttf-larabie-deco, ttf-larabie-straight, ttf-larabie-uncommon, ttf-liberation, ttf-sjfonts, ttf-ubuntu-title
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Font packages we like to use
+ Font packages we like to use together.
+
+
+
